@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data collection projects
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/lorrainefeury/)
 
-[![Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lofeury)](https://github.com/lofeury/github-readme-stats)
+[![Lorraine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lofeury&theme=tokyonight)](https://github.com/lofeury/github-readme-stats)
 
 
 <!---
