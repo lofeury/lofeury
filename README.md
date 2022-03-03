@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorraine Feury
-- 👀 I’m interested in real estate and fintech
+- 👀 I’m interested in real estate, fintech, and business KPIs
 - 🌱 I’m currently learning A/B experimentation
 - 💞️ I’m looking to collaborate on data collection projects
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/lorrainefeury/)
